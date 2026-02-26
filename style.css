@@ -15,6 +15,7 @@ nav{
 
 #noticias {
     display: flex;
+    flex-wrap: wrap;
     background-color: rgb(145, 34, 34);
     margin: 40px;
     justify-content: center;
