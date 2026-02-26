@@ -33,3 +33,11 @@ nav{
 .img_noticias {
     height: 200px;
 }
+
+footer {
+    background-color: rgb(163, 28, 28);
+    padding: 10px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+}
